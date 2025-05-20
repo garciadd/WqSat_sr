@@ -10,5 +10,4 @@ setup(
     description='Code to improve the spatial resolution of satellite images.',
     author='CSIC',
     license='Apache License 2.0',
-    install_requires=reqs,
-    pbr=True)
+    install_requires=reqs)
